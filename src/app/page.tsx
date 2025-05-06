@@ -17,7 +17,7 @@ export default function Home() {
       className={`bg-[#010101] min-h-screen text-white ${figtreeFont.className}`}
     >
       <div className="w-full bg-[linear-gradient(89.63deg,_#FC004E_-2.16%,_#10CBE0_115.27%)] text-center px-4 py-2.5 max-[1279px]:py-4 h-[76px] min-[1280px]:h-[46px] flex justify-center items-center">
-        <h3 className="text-[22px] font-[800] max-[1279px]:text-[16px]">
+        <h3 className="text-[22px] font-extrabold max-[1279px]:text-[16px]">
           <span className="">
             <span>🚀</span>{" "}
             <span className="text-[#00E7F9] uppercase">
